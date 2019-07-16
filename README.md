@@ -4,3 +4,4 @@ Implementing Data Structure and Algorithms
 
 
 - Heap
+- MergeSort
